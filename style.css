@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    color: #333;
+}
+
+/* Navigation */
+header {
+    background: #000;
+    padding: 15px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: #fff;
+    font-size: 24px;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #222;
+    color: white;
+}
+
+.highlight {
+    color: #00d4ff;
+}
+
+.hero button {
+    margin-top: 20px;
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    background: #00d4ff;
+    color: black;
+}
+
+/* Sections */
+section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+/* Skills */
+.skills-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.skill-box {
+    padding: 15px 25px;
+    background: #000;
+    color: white;
+    border-radius: 8px;
+}
+
+/* Projects */
+.project-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.project-card {
+    background: white;
+    width: 250px;
+    padding: 20px;
+    box-shadow: 0 0 10px #ccc;
+    border-radius: 10px;
+}
+
+/* Contact */
+#contact input, #contact textarea {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#contact button {
+    padding: 10px 25px;
+    background: #000;
+    color: white;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 20px;
+}
