@@ -29,3 +29,10 @@ The Resume section allows users to view or download the developer’s resume in 
 CSS is extensively used for styling the website, including layouts, color schemes, fonts, and responsiveness. Media queries ensure that the website adapts well to different screen sizes such as desktops, tablets, and mobile phones. JavaScript adds interactivity, such as form validation, smooth navigation, and dynamic content updates.
 
 In conclusion, the Static Developer Portfolio Website is a beginner-friendly yet powerful project that demonstrates front-end development skills. It helps developers present themselves professionally on the web while improving their understanding of web design principles. This project is cost-effective, easy to deploy, and highly useful for personal branding and career growth.
+
+## OUTPUT
+
+<img width="1885" height="917" alt="Image" src="https://github.com/user-attachments/assets/69fca90c-d4a3-482d-8cd3-8062e95ecf46" />
+
+<img width="1888" height="795" alt="Image" src="https://github.com/user-attachments/assets/83bb1428-25f9-40a0-aabe-508933579031" />
+
